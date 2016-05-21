@@ -8,9 +8,14 @@
             <!--
             <iq:product id="square_watch"/>
             <iq:product id="semi_round_watch"/>
+            <iq:product id="fr630"/>
+            <iq:product id="fr235"/>
+            <iq:product id="fr230"/>
             <iq:product id="vivoactive"/>
             <iq:product id="fr920xt"/>
             <iq:product id="epix"/>
+            <iq:product id="edge_1000"/>
+            <iq:product id="edge_520"/>
              -->
         </iq:products>
 
@@ -19,7 +24,9 @@
         </iq:permissions>
 
         <iq:languages>
+            <iq:language>deu</iq:language>
             <iq:language>eng</iq:language>
+            <iq:language>dut</iq:language>
         </iq:languages>
 
     </iq:application>
